@@ -11,10 +11,9 @@
     <img src="https://img.shields.io/github/stars/liufuyou/EhViewer.svg?style=flat&logo=GitHub" alt="GitHub Stars"></p>
 <p align="center">EhViewer is a collection of E-Hentai viewers that provides the latest available versions.</p>
     
->> Merry Christmas! 🎄 Wishing you joy and warmth during this festive season. Whether you're gathering with family, celebrating with friends, or enjoying peaceful moments, may your Christmas be filled with love and laughter! 🎅🎁
+>> May Day labor, everyone have a good rest
 
 
-> Happy Christmas Eve🎁
 > After the latest update on October 28th, we have noticed several issues across multiple versions. However, given that many of these versions have already ceased updates and are now in an archived state, we are compelled to consider compiling a list of these archived projects. This decision is aimed at preventing further allocation of time and resources to these archived projects and, instead, focusing our efforts on those that are still actively maintained and updated.
 ## Recommended Versions
 
